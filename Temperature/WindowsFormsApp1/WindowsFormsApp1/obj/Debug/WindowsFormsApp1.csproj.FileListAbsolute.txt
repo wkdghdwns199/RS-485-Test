@@ -38,3 +38,13 @@ C:\Users\wkdgh\Downloads\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug
 C:\Users\wkdgh\Downloads\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\wkdgh\Downloads\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\wkdgh\Downloads\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MotorControl.Form1.resources
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Temp\RS-485-Test\Temperature\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
